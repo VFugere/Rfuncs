@@ -1,2 +1,2 @@
 # Rfuncs
-Catalogue of useful R functions not yet in a package
+Catalogue of useful / custom R functions
